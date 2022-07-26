@@ -1,0 +1,128 @@
+{
+    "EpickAccountInfo": {
+        "displayName": "САНЯ ДЕТДОМ",
+        "accountName": "2",
+        "accountEmail": "",
+        "accountLastLogin": "2022-07-26T10:01:08.902Z",
+        "accountCountry": "",
+        "accountTfaEnabled": true
+    },
+    "Fortnite": {
+        "createdAt": "2019-12-31T23:24:32.765Z",
+        "currentPassTier": 1,
+        "lifetimeWins": 13,
+        "currentLevel": 1,
+        "accountLevel": 119,
+        "oldSeasons": [
+            {
+                "seasonNumber": 11,
+                "seasonXp": 4000,
+                "seasonLevel": 2,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 0,
+                "numHighBracket": 0,
+                "numLowBracket": 0
+            },
+            {
+                "seasonNumber": 12,
+                "seasonXp": 29153,
+                "seasonLevel": 52,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 3,
+                "numHighBracket": 12,
+                "numLowBracket": 40
+            },
+            {
+                "seasonNumber": 14,
+                "seasonXp": 15345,
+                "seasonLevel": 3,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 0,
+                "numHighBracket": 1,
+                "numLowBracket": 1
+            },
+            {
+                "seasonNumber": 16,
+                "seasonXp": 35,
+                "seasonLevel": 49,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 8,
+                "numHighBracket": 15,
+                "numLowBracket": 54
+            },
+            {
+                "seasonNumber": 17,
+                "seasonXp": 8436,
+                "seasonLevel": 6,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 1,
+                "numHighBracket": 1,
+                "numLowBracket": 1
+            },
+            {
+                "seasonNumber": 19,
+                "seasonXp": 29295,
+                "seasonLevel": 5,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 1,
+                "numHighBracket": 1,
+                "numLowBracket": 1
+            },
+            {
+                "seasonNumber": 20,
+                "seasonXp": 3000,
+                "seasonLevel": 1,
+                "purchasedVIP": false,
+                "numRoyalRoyales": 0,
+                "numWins": 0,
+                "numHighBracket": 0,
+                "numLowBracket": 0
+            }
+        ],
+        "historyPurchases": [
+            {
+                "purchaseId": "2610ea71-7099-43f1-bb3a-49e5fa5bc9e7",
+                "purchaseDate": "2021-12-11T17:28:44.325Z",
+                "itemType": [
+                    {
+                        "itemType": "AthenaDance:eid_rustybolt_zmr13"
+                    }
+                ],
+                "totalMtxPaid": 300
+            }
+        ],
+        "items": [
+            {
+                "id": "pickaxe_id_579_wickedduckmale1h",
+                "name": "Tactical Quaxes",
+                "rarity": "rare"
+            },
+            {
+                "id": "cid_674_athena_commando_f_hoodiebandit",
+                "name": "Iris",
+                "rarity": "rare"
+            },
+            {
+                "id": "pickaxe_id_343_hoodiebanditfemale",
+                "name": "Pop Axe",
+                "rarity": "rare"
+            },
+            {
+                "id": "pickaxe_id_368_bananaagent",
+                "name": "Bananaxe",
+                "rarity": "uncommon"
+            },
+            {
+                "id": "defaultpickaxe",
+                "name": "Default Pickaxe",
+                "rarity": "common"
+            }
+        ]
+    }
+}
